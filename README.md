@@ -1,1 +1,1 @@
-# Particles
+# [Particle effect using Particles.js](https://jtdevries.github.io/Particles/.)
